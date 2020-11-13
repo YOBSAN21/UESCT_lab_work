@@ -1,16 +1,4 @@
-/*
 
-    Linked List implementation by C programming Language
-
-    Operations: create list, insert item to last, insert item to first,
-
-        insert item to middle, search an item, delete an item, print list
-
-    Programmed by: Hasan Abdullah
-
-    Contact: http://hellohasan.com/
-
-*/
 
 
 
