@@ -1,0 +1,3 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  create_process.cpp
+C:\Users\Yobsan\source\repos\create_process\create_process\create_process.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
